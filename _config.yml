@@ -2,14 +2,14 @@
 #
 
 # Site settings
-title: Spectral
+title: Hi, I'm Mingxin Chen
 description: |
   Master student in Computer Science
 owner: Chen Mingxin # or company name
 first_published: 2019 # if migrating another site, the year of your first publish
 email: mxchen1997@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://github.com/owemmx" # the base hostname & protocol for your site
 social:
   github: https://github.com/owemmx
   linkedin-square: https://linkedin.com/in/chenmingxin
